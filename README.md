@@ -1,1 +1,1 @@
-# website1
+Hi, I am creating a webpage for my business "Reese Tactical".  I'd like to keep it basic with information about me and the classes I teach.  I'd like to have a schedule posted and way to pay me and reserve spots for classes on my webpage.
